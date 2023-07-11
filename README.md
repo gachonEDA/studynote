@@ -6,7 +6,7 @@
 <B> 목표 : 지식 그래프를 이용한 추천 서비스 </B> 
 
 * 방학 (스터디)
-  * 1주차 : Content-based Filtering & Collaborative Filtering
+  * 1주차 : Content-based Filtering & Collaborative Filtering ([바로가기](https://github.com/gachonEDA/studynote/blob/main/lecture/%EC%9D%B4%EB%8B%A4%201%EC%A3%BC%EC%B0%A8.pdf))
   * 2주차 : GNN & Knowledge Graph
   * 3주차 : RippleNet
   * 4주차 : KGAT

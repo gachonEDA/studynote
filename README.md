@@ -7,11 +7,11 @@
 
 * 방학 (스터디)
   * 1주차 : Content-based Filtering & Collaborative Filtering ([바로가기](https://github.com/gachonEDA/studynote/blob/main/lecture/%EC%9D%B4%EB%8B%A4%201%EC%A3%BC%EC%B0%A8.pdf))
-  * 2주차 : GNN & Knowledge Graph
-  * 3주차 : RippleNet
-  * 4주차 : KGAT
-  * 5주차 : KGCN
-  * 6주차 : How to evaluate? (MAP, 필터 버블 등 의견 나누기)
+  * 2주차 : GNN & Knowledge Graph ([바로가기](https://github.com/gachonEDA/studynote/blob/main/lecture/%EC%9D%B4%EB%8B%A4%202%EC%A3%BC%EC%B0%A8.pdf))
+  * 3주차 : RippleNet ([바로가기](https://github.com/gachonEDA/studynote/blob/main/lecture/%EC%9D%B4%EB%8B%A4%203%EC%A3%BC%EC%B0%A8.pdf))
+  * 4주차 : KGAT ([바로가기](https://github.com/gachonEDA/studynote/blob/main/lecture/%EC%9D%B4%EB%8B%A4%204%EC%A3%BC%EC%B0%A8.pdf))
+  * 5주차 : KGCN ([바로가기](https://github.com/gachonEDA/studynote/blob/main/lecture/%EC%9D%B4%EB%8B%A4%205%EC%A3%BC%EC%B0%A8.pdf))
+  * 6주차 : How to evaluate? (MAP, 필터 버블 등 의견 나누기) 
     
 * 2학기 (연구 진행)
   * 초반 1 : 참고할만한 논문이나 깃허브 레포지터리 가져오기
